@@ -4,11 +4,11 @@ Golang Study Project
 ## Study plan
 
 1. Packages and the Go Tool
-    1. The Go Tool :white_check_mark:
-    1. Packages and Naming :white_check_mark:
-    1. The Package Declaration :white_check_mark:
+    1. The Go Tool :heavy_check_mark:
+    1. Packages and Naming :heavy_check_mark:
+    1. The Package Declaration :heavy_check_mark:
+    1. Import Declarations :heavy_check_mark:
     1. Import Paths
-    1. Import Declarations
     1. Blank Imports
 1. Program Structure
     1. Names
