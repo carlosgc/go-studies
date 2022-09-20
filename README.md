@@ -8,8 +8,8 @@ Golang Study Project
     1. Packages and Naming :heavy_check_mark:
     1. The Package Declaration :heavy_check_mark:
     1. Import Declarations :heavy_check_mark:
-    1. Import Paths
-    1. Blank Imports
+    1. Blank Imports :heavy_check_mark:
+    1. Import Paths :heavy_check_mark:
 1. Program Structure
     1. Names
     1. Declarations
