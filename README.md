@@ -11,13 +11,12 @@ Golang Study Project
     1. Blank Imports :heavy_check_mark:
     1. Import Paths :heavy_check_mark:
 1. Program Structure
-    1. Names
-    1. Declarations
-    1. Variables
-    1. Assignments
-    1. Type Declarations
-    1. Packages and Files
-    1. Scope
+    1. Names :heavy_check_mark:
+    1. Declarations :heavy_check_mark:
+    1. Variables :heavy_check_mark:
+    1. Assignments :heavy_check_mark:
+    1. Type Declarations :heavy_check_mark:
+    1. Scope :heavy_check_mark:
 1. Basic Data Types
     1. Integers
     1. Floating-Point Numbers
@@ -30,6 +29,7 @@ Golang Study Project
     1. Slices
     1. Maps
     1. Structs
+    1. Pointers
     1. JSON
     1. Text and HTML Templates
 1. Functions
