@@ -13,6 +13,7 @@ Golang Study Project
 1. Program Structure
     1. Names :heavy_check_mark:
     1. Declarations :heavy_check_mark:
+    1. Constants :heavy_check_mark:
     1. Variables :heavy_check_mark:
     1. Assignments :heavy_check_mark:
     1. Type Declarations :heavy_check_mark:
@@ -23,7 +24,6 @@ Golang Study Project
     1. Complex Numbers
     1. Booleans
     1. Strings
-    1. Constants
 1. Composite Types
     1. Arrays
     1. Slices
