@@ -24,6 +24,7 @@ Golang Study Project
     1. Complex Numbers
     1. Booleans
     1. Strings
+    1. Rune
 1. Composite Types
     1. Arrays
     1. Slices

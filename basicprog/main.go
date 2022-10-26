@@ -5,4 +5,6 @@ func main() {
 	variableExamples()
 
 	typeDeclarationExemples()
+
+	basicTypesExamples()
 }
